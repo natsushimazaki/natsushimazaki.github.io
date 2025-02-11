@@ -30,7 +30,7 @@ Official teaching assignments:
 ### **English-Spanish Translator** at [Linus Pauling Institute](https://lpi.oregonstate.edu/mic/staff) `Mar 2020 - Present` `Remote` `Contract`
 - Starting in March 2020, I have continued to perform translation tasks as an Independent Contractor. Specifically, I have translated and proofread over seven published articles from English to Spanish, each containing technical biochemistry content.
 
-### **English-Spanish Interpreter** at [Kyuden International Corporation](https://www.kyuden-intl.co.jp/en/)  in _Cuba_ `Nov 2021 - Dec 2021``In-person` `Contract`
+### **English-Spanish Interpreter** at [Kyuden International Corporation](https://www.kyuden-intl.co.jp/en/) `Nov 2021 - Dec 2021` `In-person` `Contract`
 - Worked as a student translator from English to Spanish for scientific articles published in the Micronutrient Information Center at the Linus Pauling Institute, Oregon State University until March 2020.
 
 ### **English-Spanish Student Translator** at [Linus Pauling Institute](https://lpi.oregonstate.edu/mic/staff) `Apr 2019 - Mar 2020` `Remote` `Contract`
