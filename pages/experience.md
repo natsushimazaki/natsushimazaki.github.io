@@ -1,11 +1,5 @@
 # 👩🏻‍💻 Experience
 
-- [📊👩🏻‍💼 Data Analytics Experience](#-data-analytics-experience)
-- [🏫👩🏻‍🏫 Teaching Experience](#-teaching-experience)
-- [🌍📝 Translation Experience](#-translation-experience)
-- [🎓💼 Internship Experience](#-internship-experience)
-- [🤝 Volunteering Experience](#-volunteering-experience)
-
 ## 📊👩🏻‍💼 Data Analytics Experience
 ### **Analista de Inteligencia Operacional (Operational Intelligence Analyst)** at [Grupo Humano](https://www.humano.com.do/Pages/default.aspx) `Aug 2024 - Present` `Hybrid` `Full-time`
 - Developed multiple Python-based projects to streamline fraud detection across multiple departments, reducing the workload for medical auditors by automating data extraction, transformation, modeling, and reporting.
