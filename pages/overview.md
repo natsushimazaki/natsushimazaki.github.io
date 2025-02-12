@@ -58,11 +58,11 @@ _Schools I have attended and from which I  gained invaluable experiences that si
 - Oracle
 
 ## 🥇 Certificates and MOOC's
-`Jan 2025` [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/A11JFFCRRJAR)
+### `Jan 2025` [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/A11JFFCRRJAR)
 
-`Dec 2024` [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6VJSND4J6U0A)
+### `Dec 2024` [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6VJSND4J6U0A)
 
-`Aug 2024` [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/V4P71DWFME50)
+### `Aug 2024` [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/V4P71DWFME50)
 
 
 ## 🏆 Honors & Awards
