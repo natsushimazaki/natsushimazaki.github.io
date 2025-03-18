@@ -12,6 +12,8 @@ I am developing a career that seamlessly integrates my mathematical, analytical,
 
 ## 👩🏻‍💻 Experience
 
+### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Methologies and Monitoring Specialist) at [Superintendencia de Bancos](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
+
 ### **Analista de Inteligencia Operacional (Operational Intelligence Analyst)** at [Grupo Humano](https://www.humano.com.do/Pages/default.aspx) `Aug 2024 - Present`
 - I am developing multiple Python-based projects to streamline fraud detection across multiple departments, reducing the workload for medical auditors by automating data extraction, transformation, modeling, and reporting.
 - I am collaborating with stakeholders to refine fraud detection parameters, ensuring better accuracy and alignment with the requirements of a large health insurance company.
