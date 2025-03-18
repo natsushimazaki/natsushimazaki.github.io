@@ -1,7 +1,16 @@
 # 👩🏻‍💻 Experience
 
-## 📊👩🏻‍💼 Data Analytics Experience
-### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Methologies and Monitoring Specialist) at [Superintendencia de Bancos](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
+- [📊👩🏻‍💼 Data Analytics Experience](#-data-analytics-experience)
+- [🏫👩🏻‍🏫 Teaching Experience](#-teaching-experience)
+- [🌍📝 Translation Experience](#-translation-experience)
+- [🎓💼 Internship Experience](#-internship-experience)
+- [🤝 Volunteering Experience](#-volunteering-experience)
+
+## 📊👩🏻‍💼 Data Analytics Experience.
+### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Methods and Monitoring Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
+- Analysis and data science with a focus on credit risk.
+- Quantification and modeling of the intersection between Environmental & Social (E&S) risk and credit risk
+- Basel III compliance 
 
 ### **Analista de Inteligencia Operacional (Operational Intelligence Analyst)** at [Grupo Humano](https://www.humano.com.do/Pages/default.aspx) `Aug 2024 - Feb 2025` `Hybrid` `Full-time`
 - Developed multiple Python-based projects to streamline fraud detection across multiple departments, reducing the workload for medical auditors by automating data extraction, transformation, modeling, and reporting.
@@ -32,7 +41,7 @@ Official teaching assignments:
 ### **English-Spanish Translator** at [Linus Pauling Institute](https://lpi.oregonstate.edu/mic/staff) `Mar 2020 - Present` `Remote` `Contract`
 - Starting in March 2020, I have continued to perform translation tasks as an Independent Contractor. Specifically, I have translated and proofread over seven published articles from English to Spanish, each containing technical biochemistry content.
 
-### **English-Spanish Interpreter** at [Kyuden International Corporation](https://www.kyuden-intl.co.jp/en/) `Nov 2021 - Dec 2021` `In-person` `Contract`
+### **English-Spanish Interpreter** at [Kyuden International Corporation](https://www.kyuden-intl.co.jp/en/)  in _Cuba_ `Nov 2021 - Dec 2021``In-person` `Contract`
 - Worked as a student translator from English to Spanish for scientific articles published in the Micronutrient Information Center at the Linus Pauling Institute, Oregon State University until March 2020.
 
 ### **English-Spanish Student Translator** at [Linus Pauling Institute](https://lpi.oregonstate.edu/mic/staff) `Apr 2019 - Mar 2020` `Remote` `Contract`

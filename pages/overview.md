@@ -12,13 +12,16 @@ I am developing a career that seamlessly integrates my mathematical, analytical,
 
 ## 👩🏻‍💻 Experience
 
-### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Methologies and Monitoring Specialist) at [Superintendencia de Bancos](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
+### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Methods and Monitoring Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
+- Analysis and data science with a focus on credit risk.
+- Quantification and modeling of the intersection between Environmental & Social (E&S) risk and credit risk
+- Basel III compliance  
 
-### **Analista de Inteligencia Operacional (Operational Intelligence Analyst)** at [Grupo Humano](https://www.humano.com.do/Pages/default.aspx) `Aug 2024 - Present`
-- I am developing multiple Python-based projects to streamline fraud detection across multiple departments, reducing the workload for medical auditors by automating data extraction, transformation, modeling, and reporting.
-- I am collaborating with stakeholders to refine fraud detection parameters, ensuring better accuracy and alignment with the requirements of a large health insurance company.
-- I have created interactive Power BI dashboards for Exploratory Data Analysis, offering insights into potential fraud-detection metrics and guiding the refinement of existing ones.
-- I have delivered intelligence solutions using Python, Excel, and Power BI to support data-driven decision-making and enhance operational efficiency.
+### **Analista de Inteligencia Operacional (Operational Intelligence Analyst)** at [Grupo Humano](https://www.humano.com.do/Pages/default.aspx) `Aug 2024 - Feb 2025` `Hybrid` `Full-time`
+- Developed multiple Python-based projects to streamline fraud detection across multiple departments, reducing the workload for medical auditors by automating data extraction, transformation, modeling, and reporting.
+- Collaborated with stakeholders to refine fraud detection parameters, ensuring better accuracy and alignment with the requirements of a large health insurance company.
+- Created interactive Power BI dashboards for Exploratory Data Analysis, offering insights into potential fraud-detection metrics and guiding the refinement of existing ones.
+- Delivered intelligence solutions using Python, Excel, and Power BI to support data-driven decision-making and enhance operational efficiency.
 
 - _**Technologies used:**_ Python, Git, R, Excel, Power BI
 
@@ -60,17 +63,18 @@ _Schools I have attended and from which I  gained invaluable experiences that si
 - Oracle
 
 ## 🥇 Certificates and MOOC's
-### `Jan 2025` [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/A11JFFCRRJAR)
+`Jan 2025` [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/A11JFFCRRJAR)
 
-### `Dec 2024` [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6VJSND4J6U0A)
+`Dec 2024` [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6VJSND4J6U0A)
 
-### `Aug 2024` [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/V4P71DWFME50)
+`Aug 2024` [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/V4P71DWFME50)
+
 
 ## 🏆 Honors & Awards
-### `Sept 2024` **Member of First Place Winning Team** at [Datathon 2024](https://bigdatado.org/) 
+`Sept 2024` **Member of First Place Winning Team** at [Datathon 2024](https://bigdatado.org/) 
 A three-day Data Analytics and Data Science competition was hosted by the Dominican Data Science Society. There were two competitions: Data Visualization and Machine Learning. Our team won first place in the Data Visualization competition by developing a dashboard and data storytelling that highlighted patterns of fraudulent credit card transactions recorded by a Dominican financial institution.
 
-### `Jul 2024` **Excellence in Graduate Mathematics** at [Shawnee State University](https://www.shawnee.edu/areas-study/college-arts-sciences/math-sciences/master-math) 
+`Jul 2024`**Excellence in Graduate Mathematics** at [Shawnee State University](https://www.shawnee.edu/areas-study/college-arts-sciences/math-sciences/master-math) 
 Recipient of the Excellence in Graduate Mathematics honors at the Evening of Honors – Mathematical Sciences event, held at Shawnee State University.
 
 ## 💬 Languages
