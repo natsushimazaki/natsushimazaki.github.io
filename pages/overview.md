@@ -63,18 +63,18 @@ _Schools I have attended and from which I  gained invaluable experiences that si
 - Oracle
 
 ## 🥇 Certificates and MOOC's
-`Jan 2025` [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/A11JFFCRRJAR)
+### `Jan 2025` [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/A11JFFCRRJAR)
 
-`Dec 2024` [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6VJSND4J6U0A)
+### `Dec 2024` [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6VJSND4J6U0A)
 
-`Aug 2024` [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/V4P71DWFME50)
+### `Aug 2024` [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/V4P71DWFME50)
 
 
 ## 🏆 Honors & Awards
-`Sept 2024` **Member of First Place Winning Team** at [Datathon 2024](https://bigdatado.org/) 
+### `Sept 2024` **Member of First Place Winning Team** at [Datathon 2024](https://bigdatado.org/) 
 A three-day Data Analytics and Data Science competition was hosted by the Dominican Data Science Society. There were two competitions: Data Visualization and Machine Learning. Our team won first place in the Data Visualization competition by developing a dashboard and data storytelling that highlighted patterns of fraudulent credit card transactions recorded by a Dominican financial institution.
 
-`Jul 2024`**Excellence in Graduate Mathematics** at [Shawnee State University](https://www.shawnee.edu/areas-study/college-arts-sciences/math-sciences/master-math) 
+### `Jul 2024` **Excellence in Graduate Mathematics** at [Shawnee State University](https://www.shawnee.edu/areas-study/college-arts-sciences/math-sciences/master-math) 
 Recipient of the Excellence in Graduate Mathematics honors at the Evening of Honors – Mathematical Sciences event, held at Shawnee State University.
 
 ## 💬 Languages
