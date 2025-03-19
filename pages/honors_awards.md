@@ -2,7 +2,7 @@
 ### `Sep 2024` **Member of First Place Winning Team** at [Datathon 2024](https://bigdatado.org/) 
 A three-day Data Analytics and Data Science competition was hosted by the Dominican Data Science Society. There were two competitions: Data Visualization and Machine Learning. Our team won first place in the Data Visualization competition by developing a dashboard and data storytelling that highlighted patterns of fraudulent credit card transactions recorded by a Dominican financial institution.
 
-### `Jul 2024` **Excellence in Graduate Mathematics** at [Shawnee State University](https://www.shawnee.edu/areas-study/college-arts-sciences/math-sciences/master-math) 
+### `July 2024` **Excellence in Graduate Mathematics** at [Shawnee State University](https://www.shawnee.edu/areas-study/college-arts-sciences/math-sciences/master-math) 
 Recipient of the Excellence in Graduate Mathematics honors at the Evening of Honors – Mathematical Sciences event, held at Shawnee State University.
 
 ### `Jan 2020` **Robin L. Ryan Unsung Hero Award** at [Oregon State University](https://clubs.oregonstate.edu/math)

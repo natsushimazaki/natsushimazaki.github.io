@@ -6,13 +6,8 @@
 - [🎓💼 Internship Experience](#-internship-experience)
 - [🤝 Volunteering Experience](#-volunteering-experience)
 
-## 📊👩🏻‍💼 Data Analytics Experience.
-### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Methods and Monitoring Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
-- Analysis and data science with a focus on credit risk.
-- Quantification and modeling of the intersection between Environmental & Social (E&S) risk and credit risk
-- Basel III compliance 
-
-### **Analista de Inteligencia Operacional (Operational Intelligence Analyst)** at [Grupo Humano](https://www.humano.com.do/Pages/default.aspx) `Aug 2024 - Feb 2025` `Hybrid` `Full-time`
+## 📊👩🏻‍💼 Data Analytics Experience
+### **Analista de Inteligencia Operacional (Operational Intelligence Analyst)** at [Grupo Humano](https://www.humano.com.do/Pages/default.aspx) `Aug 2024 - Present` `Hybrid` `Full-time`
 - Developed multiple Python-based projects to streamline fraud detection across multiple departments, reducing the workload for medical auditors by automating data extraction, transformation, modeling, and reporting.
 - Collaborated with stakeholders to refine fraud detection parameters, ensuring better accuracy and alignment with the requirements of a large health insurance company.
 - Created interactive Power BI dashboards for Exploratory Data Analysis, offering insights into potential fraud-detection metrics and guiding the refinement of existing ones.
