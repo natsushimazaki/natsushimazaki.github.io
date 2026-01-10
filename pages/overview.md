@@ -2,20 +2,22 @@
 
 ## 😺 About
 
-I am a Mathematics and Data Professional interested in the intersection of mathematics and computer programming. Mathematics to me has three dimensions: learning, teaching, and applying. I enjoy engaging in all three of them. I believe in continuous improvement and lifelong learning, which is why, beyond my M.Sc. in Mathematics, I continue to expand my knowledge, now exploring computer science and programming to develop innovative data-driven solutions for businesses.
+I find joy in understanding. I am a Mathematics and Data Professional working at the intersection of mathematical reasoning, econometrics, and computer programming. I love learning, which has a nice side-benefit of continuous personal and professional improvement. I hold both a B.Sc. and an M.Sc. in Mathematics, and my curiosity is currently leading me through self-learning in software development, with particular focus on Object-Oriented Programming, Machine Learning, Artificial Intelligence, software architecture, and Test-Driven Development, all through the lens of someone formally trained in Pure Mathematics.
 
-I have worked as an Operational Intelligence Analyst at a large insurance company where I have developed Python-based fraud detection solutions and create interactive Power BI dashboards to enhance operational efficiency. I also have experience teaching mathematics at the university and upper-secondary levels, both in-person and online. 
+I bring applied mathematics into the workplace. I currently serve in banking supervision within the Credit Risk Monitoring Division, where I evaluate existing measurement methodologies and design new ones. I work with traditional statistics and machine learning, delivering technical reports, dashboards, and Python-powered analytical pipelines. Previously, I worked as an Operational Intelligence Analyst at a large insurance company, developing fraud-detection tools and interactive Power BI dashboards to enhance operational efficiency. I also have experience teaching mathematics at the university and upper-secondary levels, both in person and online.
 
-Beyond mathematics, I consider myself to be deeply artistically-oriented. My hobbies include digital photography and post-production editing, cat care, piano playing, and recently I have recovered my knack for reading physical book-formats (mainly sci-fi and non-fiction). I am multicultural (Dominican and Japanese) and a polyglot (Spanish, English, Japanese, and basic French). My current language goal is obtaining the N2 certification in the Japanese Language Proficiency Test (JLPT).
+Beyond mathematics, I consider myself to be deeply artistically-oriented. My hobbies include digital photography and post-production editing, cat care, piano playing, reading sci-fi and non-fiction, and painting with mixed media (gouache, alcohol markers, iPad, colored pencils). I am multicultural (Dominican and Japanese) and a polyglot (Spanish, English, Japanese, and basic French). My current language goal is obtaining the N2 certification in the Japanese Language Proficiency Test (JLPT).
 
 I am developing a career that seamlessly integrates my mathematical, analytical, and creative interests, bridging disciplines to drive innovation.
 
 ## 👩🏻‍💻 Experience
 
 ### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Methods and Monitoring Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
-- Analysis and data science with a focus on credit risk.
-- Quantification and modeling of the intersection between Environmental & Social (E&S) risk and credit risk
-- Basel III compliance  
+- Analysis and data science with a focus on credit risk
+- Modeling the interaction between credit risk and environmental and climate-related risks
+- Conducting impact studies following the Basel II & III framework
+
+- _**Technologies used:**_ Python, Git, Azure DevOps, Excel, Power BI
 
 ### **Analista de Inteligencia Operacional (Operational Intelligence Analyst)** at [Grupo Humano](https://www.humano.com.do/Pages/default.aspx) `Aug 2024 - Feb 2025` `Hybrid` `Full-time`
 - Developed multiple Python-based projects to streamline fraud detection across multiple departments, reducing the workload for medical auditors by automating data extraction, transformation, modeling, and reporting.

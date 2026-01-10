@@ -6,7 +6,7 @@
 - Research skills 
 
 ## Tech Stack and Tools
-- Python
+- Python (Object Oriented Programming)
 - Power BI
 - R
 - SQL
@@ -24,3 +24,14 @@
 - LaTeX
 - Office Suite (Word, Excel, PowerPoint)
 - Video Editing (Sony Vegas, Shotcut)
+
+# Skills and subjects of current interest and pursuit, in no particular order
+- Software Architecture
+- Cloud Computing
+- Building APIs
+- End-to-end software development
+- Web development
+- Design Thinking
+- Thinkering with Computer Hardware (beyond building PC's)
+- Natural sciences (chemistry & physics)
+- Economy and Econometrics
