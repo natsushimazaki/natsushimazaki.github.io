@@ -12,9 +12,9 @@
 - SQL
 
 ## Database Experience
+- Oracle
 - MSSQL Server
 - MySQL
-- Oracle
 
 ## Version Control Systems (VCS)
 - Git
@@ -25,7 +25,7 @@
 - Office Suite (Word, Excel, PowerPoint)
 - Video Editing (Sony Vegas, Shotcut)
 
-# Skills and subjects of current interest and pursuit, in no particular order
+## Skills and subjects of current interest and pursuit, in no particular order
 - Software Architecture
 - Cloud Computing
 - Building APIs

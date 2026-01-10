@@ -60,9 +60,9 @@ _Schools I have attended and from which I  gained invaluable experiences that si
 - Video Editing (Sony Vegas, Shotcut)
 
 ### Database Experience
+- Oracle
 - MSSQL Server
 - MySQL
-- Oracle
 
 ## 🥇 Certificates and MOOC's
 ### `Jan 2025` [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/A11JFFCRRJAR)
