@@ -13,7 +13,7 @@
 
 ### `Aug 2024` [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/V4P71DWFME50)
 
-## Work in Progress:
+## Work in Progress
 ### `Started in May 2025` [An Introduction to Credit Risk Management](https://www.edx.org/learn/risk-management/delft-university-of-technology-an-introduction-to-credit-risk-management)
 
  ### `Started in Dec 2024` [Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/V4P71DWFME50)
