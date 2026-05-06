@@ -69,6 +69,9 @@ Official teaching assignments:
 - Implemented techniques and protocols, including the maintenance of organisms for research, basic techniques for protein extraction, analysis of the Brome Mosaic Virus (BMV) and rice plants using SDS-PAGE, and protein analysis using Western Blotting.
 
 ## 🤝 Volunteering Experience
+### **CIGCN Occupational Group 4 Representative Elect** at [Superintendencia de Bancos](https://sb.gob.do/) and [DIGEIG](https://digeig.gob.do/comision-de-integridad-gubernamental-y-cumplimiento-normativo-cigcn/) `Elected in 2025` `In-person` `Awaiting to be sworn in`
+- I represent the interests and voice of professional and technical staff, serving as a peer-elected liaison between my occupational group and the institutional mechanisms that uphold integrity and good governance in the public sector.
+
 ### **Graphic Design Artist and Photographer of the Math Club** at [Oregon State University](https://clubs.oregonstate.edu/math) `Jan 2019 - Jan 2020` `In-person`
 - I served primarily as the Graphic Designer and Photographer for the Math Club at OSU. I created the club’s logo, still in use as of 2024, and designed various advertising materials. I photographed club meetings and video-recorded events. Specifically, I designed the flyer for “Calculus, The Musical,” which was distributed across the Corvallis campus.
 

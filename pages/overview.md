@@ -2,20 +2,24 @@
 
 ## 😺 About
 
-I find joy in understanding. I am a Mathematics and Data Professional working at the intersection of mathematical reasoning, econometrics, and computer programming. I love learning, which has a nice side-benefit of continuous personal and professional improvement. I hold both a B.Sc. and an M.Sc. in Mathematics, and my curiosity is currently leading me through self-learning in software development, with particular focus on Object-Oriented Programming, Machine Learning, Artificial Intelligence, software architecture, and Test-Driven Development, all through the lens of someone formally trained in Pure Mathematics.
+I am an Applied Mathematics and Data Professional currently working at the intersection of quantitative analysis, econometrics, computer programming, and prudential supervision. I am currently based in Santo Domingo, Dominican Republic.
 
-I bring applied mathematics into the workplace. I currently serve in banking supervision within the Credit Risk Monitoring Division, where I evaluate existing measurement methodologies and design new ones. I work with traditional statistics and machine learning, delivering technical reports, dashboards, and Python-powered analytical pipelines. Previously, I worked as an Operational Intelligence Analyst at a large insurance company, developing fraud-detection tools and interactive Power BI dashboards to enhance operational efficiency. I also have experience teaching mathematics at the university and upper-secondary levels, both in person and online.
+I proudly serve in the public sector as a Credit Risk Monitoring and Methodologies Specialist. I link complex financial information to credit risk indicators that support financial stability. My projects draw heavily on econometrics, computer programming, and academic research. One of my favorite (and quite challenging!) ongoing projects is to develop novel methodologies to measure climate risk and its impact on credit portfolios, with the goal to equip supervisors and financial institutions with tools to hedge these risks more effectively.
 
-Beyond mathematics, I consider myself to be deeply artistically-oriented. My hobbies include digital photography and post-production editing, cat care, piano playing, reading sci-fi and non-fiction, and painting with mixed media (gouache, alcohol markers, iPad, colored pencils). I am multicultural (Dominican and Japanese) and a polyglot (Spanish, English, Japanese, and basic French). My current language goal is obtaining the N2 certification in the Japanese Language Proficiency Test (JLPT).
+In general, I love understanding and solving complex problems; I love learning new skills and building useful things; I love creating art; I love the sense of progress in continuous improvement; and I love scientific communication and its influence on societal improvement. Those passions funnel into my work and express themselves in deliverables grounded in current best practices, academic literature ("If I have seen further it is by standing on the shoulders of Giants"), and analytical rigor. I always strive to make each delivery better than the last.
 
-I am developing a career that seamlessly integrates my mathematical, analytical, and creative interests, bridging disciplines to drive innovation.
+My previous work experience includes: data analyst at a large health insurance company, teaching mathematics at university and high school levels, and professional translation.
+
+Beyond my work-life, my hobbies include digital photography and post-production editing, cat care, tending to my ever-expanding house garden, reading sci-fi and non-fiction, painting with mixed media (mostly alcohol markers, gouache, and colored pencils). I am proudly multicultural (both Dominican and Japanese) and a polyglot (Spanish, English, Japanese, and basic French). My current language goal is obtaining the N2 certification in the JLPT.  
+
+My professional goal is to continue developing a career that integrates my passion for analytical rigor and creative expression.
 
 ## 👩🏻‍💻 Experience
 
-### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Methods and Monitoring Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
-- Analysis and data science with a focus on credit risk
-- Modeling the interaction between credit risk and environmental and climate-related risks
-- Conducting impact studies following the Basel II & III framework
+### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Monitoring and Methods Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
+- Applying quantitative and qualitative methods to monitor and explain credit risk dynamics, producing indicators and analyses that inform supervisory action and protect the integrity of the financial system.
+- Analyzing how environmental and climate-related factors can impact portfolio risk, developing novel measurement approaches that equip supervisors and financial institutions with tools to identify and hedge climate-driven exposures before they materialize.
+- Conducting impact assessments, policy analysis, and supervisory exercises aligned with Basel II/III capital and risk frameworks, ensuring that institutions are adequately capitalized and that regulatory responses are grounded in rigorous, evidence-based analysis.
 
 - _**Technologies used:**_ Python, Git, Azure DevOps, Excel, Power BI
 
