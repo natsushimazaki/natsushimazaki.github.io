@@ -8,9 +8,9 @@
 
 ## 📊👩🏻‍💼 Data Analytics Experience
 ### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Methods and Monitoring Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
-- Analysis and data science with a focus on credit risk
-- Modeling the interaction between credit risk and environmental and climate-related risks
-- Conducting impact studies following the Basel II & III framework
+- Applying quantitative and qualitative methods to monitor and explain credit risk dynamics through indicators and analyses that inform supervisory action.
+- Analyzing how environmental and climate-related factors can impact portfolio risk, developing measurement methods that equip supervisors and financial institutions with tools to identify and hedge climate-vulnerable exposures.
+- Conducting impact assessments, policy analysis, and supervisory exercises aligned with Basel II/III capital and risk frameworks.
 
 ### **Analista de Inteligencia Operacional (Operational Intelligence Analyst)** at [Grupo Humano](https://www.humano.com.do/Pages/default.aspx) `Aug 2024 - Feb 2025` `Hybrid` `Full-time`
 - Developed multiple Python-based projects to streamline fraud detection across multiple departments, reducing the workload for medical auditors by automating data extraction, transformation, modeling, and reporting.

@@ -4,9 +4,9 @@
 
 I am an Applied Mathematics and Data Professional currently working at the intersection of quantitative analysis, econometrics, computer programming, and prudential supervision. I am currently based in Santo Domingo, Dominican Republic.
 
-I proudly serve in the public sector as a Credit Risk Monitoring and Methodologies Specialist. I link complex financial information to credit risk indicators that support financial stability. My projects draw heavily on econometrics, computer programming, and academic research. One of my favorite (and quite challenging!) ongoing projects is to develop novel methodologies to measure climate risk and its impact on credit portfolios, with the goal to equip supervisors and financial institutions with tools to hedge these risks more effectively.
+I proudly serve in the public sector as a Credit Risk Monitoring and Methods Specialist. I link complex financial information to credit risk indicators that support financial stability. One of my favorite (and quite challenging!) ongoing projects is to develop new methods to measure climate risk and its impact on credit portfolios, with the goal to equip supervisors and financial institutions with tools to hedge these risks more effectively.
 
-In general, I love understanding and solving complex problems; I love learning new skills and building useful things; I love creating art; I love the sense of progress in continuous improvement; and I love scientific communication and its influence on societal improvement. Those passions funnel into my work and express themselves in deliverables grounded in current best practices, academic literature ("If I have seen further it is by standing on the shoulders of Giants"), and analytical rigor. I always strive to make each delivery better than the last.
+In general, I love solving complex problems, learning new skills, building useful things, and the influence of scientific communication on societal improvement. I equally enjoy creating art and the sense of progress in continuous improvement. Those passions funnel into my work and express themselves in deliverables grounded in current best practices, academic literature ("If I have seen further it is by standing on the shoulders of Giants"), and analytical rigor. I always strive to make each delivery better than the last.
 
 My previous work experience includes: data analyst at a large health insurance company, teaching mathematics at university and high school levels, and professional translation.
 
@@ -17,9 +17,9 @@ My professional goal is to continue developing a career that integrates my passi
 ## 👩🏻‍💻 Experience
 
 ### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Monitoring and Methods Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
-- Applying quantitative and qualitative methods to monitor and explain credit risk dynamics, producing indicators and analyses that inform supervisory action and protect the integrity of the financial system.
-- Analyzing how environmental and climate-related factors can impact portfolio risk, developing novel measurement approaches that equip supervisors and financial institutions with tools to identify and hedge climate-driven exposures before they materialize.
-- Conducting impact assessments, policy analysis, and supervisory exercises aligned with Basel II/III capital and risk frameworks, ensuring that institutions are adequately capitalized and that regulatory responses are grounded in rigorous, evidence-based analysis.
+- Applying quantitative and qualitative methods to monitor and explain credit risk dynamics through indicators and analyses that inform supervisory action.
+- Analyzing how environmental and climate-related factors can impact portfolio risk, developing measurement methods that equip supervisors and financial institutions with tools to identify and hedge climate-vulnerable exposures.
+- Conducting impact assessments, policy analysis, and supervisory exercises aligned with Basel II/III capital and risk frameworks.
 
 - _**Technologies used:**_ Python, Git, Azure DevOps, Excel, Power BI
 
