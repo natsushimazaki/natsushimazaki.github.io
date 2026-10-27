@@ -7,6 +7,12 @@
 - [🤝 Volunteering Experience](#-volunteering-experience)
 
 ## 📊👩🏻‍💼 Data Analytics Experience
+### **Especialista de Estrategias y Análisis Especializado de Riesgos (Risk Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Jun 2026 - Present` `Hybrid` `Full-time`
+- Designing, implementing, and testing, quantitative methodologies to measure systemic and bank-level financial risk.
+- Supporting prudential supervisors and financial/non-financial risk teams on risk quantification and hedging strategies.
+- Authoring technical reports on financial system metrics end-to-end, for both internal and public-facing audiences.
+- Conducting impact assessments, policy analysis, and supervisory exercises aligned with Basel III capital and risk frameworks.
+
 ### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Methods and Monitoring Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
 - Applying quantitative and qualitative methods to monitor and explain credit risk dynamics through indicators and analyses that inform supervisory action.
 - Analyzing how environmental and climate-related factors can impact portfolio risk, developing measurement methods that equip supervisors and financial institutions with tools to identify and hedge climate-vulnerable exposures.

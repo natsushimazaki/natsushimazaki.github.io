@@ -2,19 +2,18 @@
 
 ## 😺 About
 
-I am an Applied Mathematics and Data Professional currently working at the intersection of quantitative analysis, econometrics, computer programming, and prudential supervision. I am currently based in Santo Domingo, Dominican Republic.
+I am an Applied Mathematics and Data Professional proudly serving in the public sector as a Financial Risk Specialist. This is at the intersection of quantitative analysis, econometrics, computer programming, and prudential supervision. I am currently based in Santo Domingo, Dominican Republic.
 
-I proudly serve in the public sector as a Credit Risk Monitoring and Methods Specialist. I link complex financial information to credit risk indicators that support financial stability. One of my favorite (and quite challenging!) ongoing projects is to develop new methods to measure climate risk and its impact on credit portfolios, with the goal to equip supervisors and financial institutions with tools to hedge these risks more effectively.
+In general, I love solving complex problems, learning new skills, building useful things, and the influence of scientific communication on societal improvement. I equally enjoy creating art and the sense of progress in continuous improvement. My professional goal is to continue a career that lets me develop these passions. 
 
-In general, I love solving complex problems, learning new skills, building useful things, and the influence of scientific communication on societal improvement. I equally enjoy creating art and the sense of progress in continuous improvement. Those passions funnel into my work and express themselves in deliverables grounded in current best practices, academic literature ("If I have seen further it is by standing on the shoulders of Giants"), and analytical rigor. I always strive to make each delivery better than the last.
-
-My previous work experience includes: data analyst at a large health insurance company, teaching mathematics at university and high school levels, and professional translation.
-
-Beyond my work-life, my hobbies include digital photography and post-production editing, cat care, tending to my ever-expanding house garden, reading sci-fi and non-fiction, painting with mixed media (mostly alcohol markers, gouache, and colored pencils). I am proudly multicultural (both Dominican and Japanese) and a polyglot (Spanish, English, Japanese, and basic French). My current language goal is obtaining the N2 certification in the JLPT.  
-
-My professional goal is to continue developing a career that integrates my passion for analytical rigor and creative expression.
+Some of the things I enjoy in my day to day are taking care of my cats and reading sci-fi. I am currently upskilling in painting with mixed media (mostly alcohol markers, gouache, and colored pencils), mathematics-econometrics-history-computer programming, and the Japanese language and culture. I am proudly multicultural (both Dominican and Japanese) and a polyglot (Spanish, English, Japanese, and basic French). My current language goal is obtaining the N2 certification in the JLPT (I'm also challenging myself to read Japanese literature in its original language).
 
 ## 👩🏻‍💻 Experience
+### **Especialista de Estrategias y Análisis Especializado de Riesgos (Risk Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Jun 2026 - Present` `Hybrid` `Full-time`
+- Designing, implementing, and testing, quantitative methodologies to measure systemic and bank-level financial risk.
+- Supporting prudential supervisors and financial/non-financial risk teams on risk quantification and hedging strategies.
+- Authoring technical reports on financial system metrics end-to-end, for both internal and public-facing audiences.
+- Conducting impact assessments, policy analysis, and supervisory exercises aligned with Basel III capital and risk frameworks.
 
 ### **Especialista de Metodologías y Monitoreo de Riesgo de Crédito (Credit Risk Monitoring and Methods Specialist)** at [Superintendencia de Bancos de la República Dominicana](https://sb.gob.do/) `Feb 2025 - Present` `Hybrid` `Full-time`
 - Applying quantitative and qualitative methods to monitor and explain credit risk dynamics through indicators and analyses that inform supervisory action.

@@ -1,5 +1,5 @@
 # 💬 Languages
-**English**: C1
 **Spanish**: Native
+**English**: C1
 **Japanese**: Intermediate
 **French**: Elementary
