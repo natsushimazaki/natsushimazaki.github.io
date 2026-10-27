@@ -20,15 +20,11 @@ Some of the things I enjoy in my day to day are taking care of my cats and readi
 - Analyzing how environmental and climate-related factors can impact portfolio risk, developing measurement methods that equip supervisors and financial institutions with tools to identify and hedge climate-vulnerable exposures.
 - Conducting impact assessments, policy analysis, and supervisory exercises aligned with Basel II/III capital and risk frameworks.
 
-- _**Technologies used:**_ Python, Git, Azure DevOps, Excel, Power BI
-
 ### **Analista de Inteligencia Operacional (Operational Intelligence Analyst)** at [Grupo Humano](https://www.humano.com.do/Pages/default.aspx) `Aug 2024 - Feb 2025` `Hybrid` `Full-time`
 - Developed multiple Python-based projects to streamline fraud detection across multiple departments, reducing the workload for medical auditors by automating data extraction, transformation, modeling, and reporting.
 - Collaborated with stakeholders to refine fraud detection parameters, ensuring better accuracy and alignment with the requirements of a large health insurance company.
 - Created interactive Power BI dashboards for Exploratory Data Analysis, offering insights into potential fraud-detection metrics and guiding the refinement of existing ones.
 - Delivered intelligence solutions using Python, Excel, and Power BI to support data-driven decision-making and enhance operational efficiency.
-
-- _**Technologies used:**_ Python, Git, R, Excel, Power BI
 
 ## 👩🏻‍🎓 Education
 

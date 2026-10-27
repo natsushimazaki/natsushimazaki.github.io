@@ -1,15 +1,16 @@
 # 💻 Skills
 
 ## General Mathematics Skills
-- Reading and constructing rigorous proofs with the ability to engage with graduate-level mathematics
+- Reading and constructing proofs with the ability to engage with graduate-level mathematics
 - Mathematical modeling and data analysis
 - Research skills 
+- Reading technical literature
 
 ## Tech Stack and Tools
 - Python (Object Oriented Programming)
+- SQL
 - Power BI
 - R
-- SQL
 
 ## Database Experience
 - Oracle
@@ -26,6 +27,7 @@
 - Video Editing (Sony Vegas, Shotcut)
 
 ## Skills and subjects of current interest and pursuit, in no particular order
+- Applied Probability and Statistics
 - Software Architecture
 - Cloud Computing
 - Building APIs
